@@ -367,5 +367,10 @@ nav{
     font-size: 13px;
 }
 
+.add-post-links a img{
+    width: 20px;
+    margin-right: 10px;
+}
+
 
 
