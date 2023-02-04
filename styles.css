@@ -342,5 +342,30 @@ nav{
     border-bottom:1px solid #ccc;
     background:transparent;
     resize: none;
-
 }
+
+.post-input-container{
+    paddgin-left: 55px;
+    padding-top: 20px;
+}
+
+.post-input-container{
+    width: 100%;
+    border:0;
+    outline:0;
+    border-bottom:1px solid #ccc;
+    background: transparent;
+    resize:none;
+}
+
+.add-post-links{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    color: #626262;
+    margin-right: 30px;
+    font-size: 13px;
+}
+
+
+
