@@ -372,5 +372,22 @@ nav{
     margin-right: 10px;
 }
 
+.post-container{
+    width:100px;
+    background: #fff;
+    border-radius:6px ;
+    padding: 20px;
+    color:#626262;
+    margin:20px 0;
+}
 
+.user-profile span{
+    font-size: 13px;
+    color:#9a9a9a;
+}
 
+.post-text{
+    color:#9a9a9a;
+    margin: 15px;
+    font-size: 15px;
+}
