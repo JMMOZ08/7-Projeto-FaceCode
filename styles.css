@@ -345,7 +345,7 @@ nav{
 }
 
 .post-input-container{
-    paddgin-left: 55px;
+    padding-left: 55px;
     padding-top: 20px;
 }
 
@@ -390,4 +390,37 @@ nav{
     color:#9a9a9a;
     margin: 15px;
     font-size: 15px;
+}
+
+.post-text span{
+    color: #626262;
+    font-weight: 500;
+}
+
+.post-text a{
+    text-decoration: none;
+    color: #7200d0;
+}
+
+.post-text img{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.post-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.post-row a{
+    color: #9a9a9a;
+}
+
+.activity-icons div img{
+    display: inline-flex;
+    align-items: center;
+    margin-right: 30px;
+    font-size: 14px;
 }
