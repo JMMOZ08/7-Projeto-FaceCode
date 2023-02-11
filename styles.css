@@ -402,7 +402,7 @@ nav{
     color: #7200d0;
 }
 
-.post-text img{
+.post img{
     width: 100%;
     border-radius: 4px;
     margin-bottom: 5px;
@@ -418,7 +418,11 @@ nav{
     color: #9a9a9a;
 }
 
-.activity-icons div img{
+.activity-icons img{
+    width: 18px;
+    margin-right: 10px;
+}    
+.activity-icons div{
     display: inline-flex;
     align-items: center;
     margin-right: 30px;
@@ -435,3 +439,4 @@ nav{
     border-radius: 50%;
     margin-right: 5px;
 }
+
