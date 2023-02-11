@@ -408,7 +408,7 @@ nav{
     margin-bottom: 5px;
 }
 
-.post-row {
+.post-row{
     display: flex;
     align-items: center;
     justify-content: space-between;
