@@ -440,3 +440,13 @@ nav{
     margin-right: 5px;
 }
 
+.load-more-btn{
+    display: flex;
+    margin: auto;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #7200d0;
+    color: #7200d0;
+    background: transparent;
+    border-radius: 4px;
+}
